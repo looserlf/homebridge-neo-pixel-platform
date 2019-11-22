@@ -25,7 +25,5 @@
     "homebridge-plugin"
   ],
   "engines": {
-    "homebridge": "^0.4.38",
-    "node": "^9.7.1"
   }
 }
